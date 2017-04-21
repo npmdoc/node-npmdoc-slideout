@@ -1,0 +1,12 @@
+<svg height="142" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="142" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">1 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ slideout@1.0.1 </tspan>
+<tspan x="10" y="90">  ├── decouple@0.0.2 </tspan>
+<tspan x="10" y="106">  └── emitter@0.0.7  (git+https://github.com/Mango/emitter.git#41ab8a3956269c7ed468bde50203e15b3\</tspan>
+<tspan x="10" y="122">274152f)</tspan>
+</text>
+</svg>
